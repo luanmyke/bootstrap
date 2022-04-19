@@ -1,0 +1,29 @@
+.cor_menu{
+    background-color: #7952B3;
+}
+
+.texto_inicial{
+    font-size: 60px;
+}
+
+.paragrafo_inicial{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn-bd-primary{
+    font-weight: 600;
+    color: #fff;
+    background-color: #7952b3;
+    border-color: #7952b3;
+}
+
+.bd-footer a{
+    color: #495057;
+    text-decoration: none;
+}
+
+.bd-footer a:hover{
+    text-decoration: underline;
+    color: #00f;
+}
